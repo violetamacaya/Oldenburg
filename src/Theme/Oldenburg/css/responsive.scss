@@ -1,0 +1,421 @@
+$brown: #5c1400;
+$orange : #f89829;
+@media (min-width: 1200px) {
+
+  .tp-banner-container {
+    max-height: 1096px;
+  }
+
+  .cart-list li {
+    width: 178px;
+    height: 178px;
+    padding: 15px;
+  }
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+  .cart-list li {
+    width: 150px;
+    height: 150px;
+    padding: 15px;
+  }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  .cart-list {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .cart-list li {
+    width: 120px;
+    height: 120px;
+    padding: 10px;
+  }
+
+}
+@media (max-width: 767px) {
+  .ipWidget-Carta {
+    background-position-y: 500px;
+    .carta-text {
+      width: 75%;
+      margin: 0 auto;
+      p{
+        line-height: 25px;
+      }
+    }
+    .cart-list li {
+      float: none !important;
+      width: 120px;
+      height: 120px;
+      margin: -10px auto 0 auto;
+      padding: 10px;
+
+    }
+  }
+}
+
+
+
+// Little larger screen
+@media only screen and (max-width: 991px){
+  header{
+    height: 80px !important;
+    z-index: 16;
+    .logo-md{
+      display: none;
+    }
+
+    .menu-top{
+      display: block;
+      a{
+        .logo{
+          float: left;
+          width: 150px;
+          margin-top: 20px;
+          margin-left:30px;
+        }
+      }
+      .toggle-menu {
+        display: block;
+        background: url("../img/toggle-menu.png") no-repeat;
+        height: 25px;
+        width: 28px;
+        float: right;
+        margin: 20px 10px 0 0;
+        cursor: pointer;
+      }
+    }
+
+    .menu{
+      display: none;
+      box-shadow: 5px 5px 5px $orange;
+      height: 1000px;
+      width: 65%;
+      background: $brown;
+      position: absolute;
+      left: 0;
+      top: 0;
+      opacity:0.95;
+      .logo{
+        display: block;
+        width: 150px;
+        margin-top: 20px;
+        margin-left:30px;
+      }
+      .level1{
+        display: block;
+        padding: 30px;
+        li{
+          display: block;
+          float: none;
+          height: 40px;
+          &.active{
+            border: none;
+          }
+          a{
+            &:focus{
+              text-decoration: none;
+            }
+
+          }
+        }
+      }
+    }
+  }
+  .layout-home{
+    margin-top: -80px;
+  }
+
+
+  .ipWidget{
+    .carousel{
+      height: 250px;
+      .carousel-indicators{
+        left: 40%;
+        max-width: 150px;
+      }
+      .carousel-inner{
+        .item{
+          img{
+            height: 250px;
+          }
+          .carousel-caption{
+            top: 3%;
+            .description{
+              width: 250px;
+              h2{
+                font-size: 20px;
+              }
+              p{
+                font-size: 14px;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  .ipWidget-Noticias{
+    .left-arrow, .right-arrow{
+      display: none;
+    }
+    .news-row{
+      width: 100%;
+      padding-bottom: 50px;
+      .news-item{
+        width: 90%;
+        margin: 40px auto 0 auto;
+        height: auto;
+        padding-bottom: 30px;
+        .news-title{
+          padding-left: 80px;
+        }
+      }
+    }
+    .small-arrows{
+      display: block;
+      padding-top: 30px;
+      width: 200px;
+      margin: 0 auto;
+      .left-arrow{
+        float: left;
+        display: block;
+        margin: 0;
+      }
+      .right-arrow{
+        float: right;
+        display: block;
+        margin: 0;
+      }
+    }
+
+    .layout-new{
+      width: 90%;
+      height: auto;
+      padding-bottom: 20px;
+      .news-image{
+        padding-left: 0;
+        width: 100%;
+        text-align: center;
+        img{
+          width: 75%;
+        }
+      }
+      .back-button{
+        display: block;
+        margin: 20px auto;
+        text-align: center;
+        width: 100px;
+        a{
+          display: block;
+          text-decoration: none;
+          color:#ffffff;
+          padding: 10px 0;
+          background: $orange;
+          font-size: 14px;
+          letter-spacing:1px;
+          border: 2px solid $orange;
+          border-radius: 15px;
+          max-width: 100px;
+          cursor: pointer;
+          text-align: center;
+          &:hover{
+            text-decoration: none;
+            background: #ffffff;
+            color: $orange;
+          }
+        }
+      }
+      .news-date{
+        top: 15px;
+        text-align: center;
+        padding-left: 0;
+        left: auto;
+        color: $orange;
+      }
+      .news-text{
+        width: 100%;
+        line-height: 20px;
+        left: 0;
+        padding-right: 30px;
+        padding-left: 30px;
+      }
+    }
+  }
+
+  .ipWidget-Pedidos {
+    height: auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    .pedidos-contenido {
+      .left {
+        width: 90%;
+        height: auto;
+        margin-bottom: 30px;
+      }
+      .consultaCartaBg {
+        display: none;
+      }
+      .consultaCarta {
+        display: block;
+        color: #ffffff;
+        background: $orange;
+        padding: 10px 15px;
+        border-radius: 15px;
+        text-decoration: none;
+        text-align: center;
+        border: 2px solid $orange;
+        font-size: 16px;
+        font-weight: 600;
+        width: 90%;
+        margin: 0 auto;
+        &:hover {
+          background: #ffffff;
+          color: $orange;
+        }
+      }
+    }
+  }
+  .ipWidget-Social{
+    .rrss-col{
+      margin: 0 auto;
+      width: 300px;
+      &:last-child {
+        margin: 0 auto;
+      }
+
+    }
+    .contact-wrapper{
+      width: 100%;
+    }
+  }
+  .ipWidget-Eventos{
+    .event-item {
+      height: auto;
+      padding-bottom: 30px;
+      text-align: center;
+      .event-image {
+        padding-left: 0;
+        float: none;
+        img {
+          max-width: 75%;
+        }
+      }
+      .event-title {
+        margin-left: 10px;
+        padding-top: 20px;
+      }
+      .event-date {
+        margin-left: 10px;
+        padding-top: 10px;
+        color: $orange;
+      }
+      .event-text {
+        margin:0 10px;
+        font-size: 14px;
+      }
+    }
+      .right-arrow, .left-arrow{
+        display: none;
+      }
+      .small-arrows{
+        display: block;
+        padding-top: 30px;
+        width: 200px;
+        margin: 0 auto;
+        .left-arrow{
+          float: left;
+          display: block;
+          margin: 0;
+          left: auto;
+        }
+        .right-arrow{
+          float: right;
+          display: block;
+          margin: 0;
+          position: relative;
+          right: auto;
+        }
+      }
+
+  }
+
+}
+
+
+/*
+
+// Larger pads
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+}
+*/
+
+// Horizontal pads and laptops
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+    header{
+      .logo-md{
+        &.logo{
+          max-width: 200px;
+        }
+      }
+    }
+  .ipWidget-Noticias{
+    .news-row{
+      width: 100%;
+    }
+    .news-item{
+      display: none;
+      width: 80%;
+      margin: 0 auto;
+    }
+    .right-arrow, .left-arrow{
+      margin-left: 10px;
+      margin-right: 25px;
+    }
+
+    .layout-new{
+      .news-image{
+        width: 50%;
+        img{
+          width: 100%;
+        }
+      }
+    }
+  }
+  .ipWidget-Eventos{
+    .event-item{
+      .event-image{
+        width: 50%;
+        img{
+          width: 100%;
+        }
+      }
+    }
+    .small-arrows{
+      display: none;
+    }
+  }
+  .ipWidget-Pedidos{
+    height: auto;
+    padding-bottom: 30px;
+    background-size: cover;
+
+
+    .pedidos-wrapper{
+      .pedidos-contenido{
+        .left{
+          height: auto;
+        }
+      }
+    }
+  }
+  .ipWidget-Social{
+    .contact-wrapper{
+      width: 992px;
+      .rrss-col{
+        margin-right: 35px;
+        width: 290px;
+      }
+    }
+  }
+}

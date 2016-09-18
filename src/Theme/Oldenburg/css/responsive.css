@@ -1,0 +1,292 @@
+@media (min-width: 1200px) {
+  .tp-banner-container {
+    max-height: 1096px; }
+
+  .cart-list li {
+    width: 178px;
+    height: 178px;
+    padding: 15px; } }
+@media (min-width: 992px) and (max-width: 1199px) {
+  .cart-list li {
+    width: 150px;
+    height: 150px;
+    padding: 15px; } }
+@media (min-width: 768px) and (max-width: 991px) {
+  .cart-list {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto; }
+
+  .cart-list li {
+    width: 120px;
+    height: 120px;
+    padding: 10px; } }
+@media (max-width: 767px) {
+  .ipWidget-Carta {
+    background-position-y: 500px; }
+    .ipWidget-Carta .carta-text {
+      width: 75%;
+      margin: 0 auto; }
+      .ipWidget-Carta .carta-text p {
+        line-height: 25px; }
+    .ipWidget-Carta .cart-list li {
+      float: none !important;
+      width: 120px;
+      height: 120px;
+      margin: -10px auto 0 auto;
+      padding: 10px; } }
+@media only screen and (max-width: 991px) {
+  header {
+    height: 80px !important;
+    z-index: 16; }
+    header .logo-md {
+      display: none; }
+    header .menu-top {
+      display: block; }
+      header .menu-top a .logo {
+        float: left;
+        width: 150px;
+        margin-top: 20px;
+        margin-left: 30px; }
+      header .menu-top .toggle-menu {
+        display: block;
+        background: url("../img/toggle-menu.png") no-repeat;
+        height: 25px;
+        width: 28px;
+        float: right;
+        margin: 20px 10px 0 0;
+        cursor: pointer; }
+    header .menu {
+      display: none;
+      box-shadow: 5px 5px 5px #f89829;
+      height: 1000px;
+      width: 65%;
+      background: #5c1400;
+      position: absolute;
+      left: 0;
+      top: 0;
+      opacity: 0.95; }
+      header .menu .logo {
+        display: block;
+        width: 150px;
+        margin-top: 20px;
+        margin-left: 30px; }
+      header .menu .level1 {
+        display: block;
+        padding: 30px; }
+        header .menu .level1 li {
+          display: block;
+          float: none;
+          height: 40px; }
+          header .menu .level1 li.active {
+            border: none; }
+          header .menu .level1 li a:focus {
+            text-decoration: none; }
+
+  .layout-home {
+    margin-top: -80px; }
+
+  .ipWidget .carousel {
+    height: 250px; }
+    .ipWidget .carousel .carousel-indicators {
+      left: 40%;
+      max-width: 150px; }
+    .ipWidget .carousel .carousel-inner .item img {
+      height: 250px; }
+    .ipWidget .carousel .carousel-inner .item .carousel-caption {
+      top: 3%; }
+      .ipWidget .carousel .carousel-inner .item .carousel-caption .description {
+        width: 250px; }
+        .ipWidget .carousel .carousel-inner .item .carousel-caption .description h2 {
+          font-size: 20px; }
+        .ipWidget .carousel .carousel-inner .item .carousel-caption .description p {
+          font-size: 14px; }
+
+  .ipWidget-Noticias .left-arrow, .ipWidget-Noticias .right-arrow {
+    display: none; }
+  .ipWidget-Noticias .news-row {
+    width: 100%;
+    padding-bottom: 50px; }
+    .ipWidget-Noticias .news-row .news-item {
+      width: 90%;
+      margin: 40px auto 0 auto;
+      height: auto;
+      padding-bottom: 30px; }
+      .ipWidget-Noticias .news-row .news-item .news-title {
+        padding-left: 80px; }
+  .ipWidget-Noticias .small-arrows {
+    display: block;
+    padding-top: 30px;
+    width: 200px;
+    margin: 0 auto; }
+    .ipWidget-Noticias .small-arrows .left-arrow {
+      float: left;
+      display: block;
+      margin: 0; }
+    .ipWidget-Noticias .small-arrows .right-arrow {
+      float: right;
+      display: block;
+      margin: 0; }
+  .ipWidget-Noticias .layout-new {
+    width: 90%;
+    height: auto;
+    padding-bottom: 20px; }
+    .ipWidget-Noticias .layout-new .news-image {
+      padding-left: 0;
+      width: 100%;
+      text-align: center; }
+      .ipWidget-Noticias .layout-new .news-image img {
+        width: 75%; }
+    .ipWidget-Noticias .layout-new .back-button {
+      display: block;
+      margin: 20px auto;
+      text-align: center;
+      width: 100px; }
+      .ipWidget-Noticias .layout-new .back-button a {
+        display: block;
+        text-decoration: none;
+        color: #ffffff;
+        padding: 10px 0;
+        background: #f89829;
+        font-size: 14px;
+        letter-spacing: 1px;
+        border: 2px solid #f89829;
+        border-radius: 15px;
+        max-width: 100px;
+        cursor: pointer;
+        text-align: center; }
+        .ipWidget-Noticias .layout-new .back-button a:hover {
+          text-decoration: none;
+          background: #ffffff;
+          color: #f89829; }
+    .ipWidget-Noticias .layout-new .news-date {
+      top: 15px;
+      text-align: center;
+      padding-left: 0;
+      left: auto;
+      color: #f89829; }
+    .ipWidget-Noticias .layout-new .news-text {
+      width: 100%;
+      line-height: 20px;
+      left: 0;
+      padding-right: 30px;
+      padding-left: 30px; }
+
+  .ipWidget-Pedidos {
+    height: auto;
+    padding-top: 50px;
+    padding-bottom: 50px; }
+    .ipWidget-Pedidos .pedidos-contenido .left {
+      width: 90%;
+      height: auto;
+      margin-bottom: 30px; }
+    .ipWidget-Pedidos .pedidos-contenido .consultaCartaBg {
+      display: none; }
+    .ipWidget-Pedidos .pedidos-contenido .consultaCarta {
+      display: block;
+      color: #ffffff;
+      background: #f89829;
+      padding: 10px 15px;
+      border-radius: 15px;
+      text-decoration: none;
+      text-align: center;
+      border: 2px solid #f89829;
+      font-size: 16px;
+      font-weight: 600;
+      width: 90%;
+      margin: 0 auto; }
+      .ipWidget-Pedidos .pedidos-contenido .consultaCarta:hover {
+        background: #ffffff;
+        color: #f89829; }
+
+  .ipWidget-Social .rrss-col {
+    margin: 0 auto;
+    width: 300px; }
+    .ipWidget-Social .rrss-col:last-child {
+      margin: 0 auto; }
+  .ipWidget-Social .contact-wrapper {
+    width: 100%; }
+
+  .ipWidget-Eventos .event-item {
+    height: auto;
+    padding-bottom: 30px;
+    text-align: center; }
+    .ipWidget-Eventos .event-item .event-image {
+      padding-left: 0;
+      float: none; }
+      .ipWidget-Eventos .event-item .event-image img {
+        max-width: 75%; }
+    .ipWidget-Eventos .event-item .event-title {
+      margin-left: 10px;
+      padding-top: 20px; }
+    .ipWidget-Eventos .event-item .event-date {
+      margin-left: 10px;
+      padding-top: 10px;
+      color: #f89829; }
+    .ipWidget-Eventos .event-item .event-text {
+      margin: 0 10px;
+      font-size: 14px; }
+  .ipWidget-Eventos .right-arrow, .ipWidget-Eventos .left-arrow {
+    display: none; }
+  .ipWidget-Eventos .small-arrows {
+    display: block;
+    padding-top: 30px;
+    width: 200px;
+    margin: 0 auto; }
+    .ipWidget-Eventos .small-arrows .left-arrow {
+      float: left;
+      display: block;
+      margin: 0;
+      left: auto; }
+    .ipWidget-Eventos .small-arrows .right-arrow {
+      float: right;
+      display: block;
+      margin: 0;
+      position: relative;
+      right: auto; } }
+/*
+
+// Larger pads
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+}
+*/
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+  header .logo-md.logo {
+    max-width: 200px; }
+
+  .ipWidget-Noticias .news-row {
+    width: 100%; }
+  .ipWidget-Noticias .news-item {
+    display: none;
+    width: 80%;
+    margin: 0 auto; }
+  .ipWidget-Noticias .right-arrow, .ipWidget-Noticias .left-arrow {
+    margin-left: 10px;
+    margin-right: 25px; }
+  .ipWidget-Noticias .layout-new .news-image {
+    width: 50%; }
+    .ipWidget-Noticias .layout-new .news-image img {
+      width: 100%; }
+
+  .ipWidget-Eventos .event-item .event-image {
+    width: 50%; }
+    .ipWidget-Eventos .event-item .event-image img {
+      width: 100%; }
+  .ipWidget-Eventos .small-arrows {
+    display: none; }
+
+  .ipWidget-Pedidos {
+    height: auto;
+    padding-bottom: 30px;
+    background-size: cover; }
+    .ipWidget-Pedidos .pedidos-wrapper .pedidos-contenido .left {
+      height: auto; }
+
+  .ipWidget-Social .contact-wrapper {
+    width: 992px; }
+    .ipWidget-Social .contact-wrapper .rrss-col {
+      margin-right: 35px;
+      width: 290px; } }
+
+/*# sourceMappingURL=responsive.css.map */

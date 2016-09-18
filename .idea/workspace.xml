@@ -1,0 +1,1252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7ea32bd6-b587-46d6-9610-a508fe66b635" name="Default" comment="" />
+    <ignored path="Oldenburg.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Oldenburg" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.4916237">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="responsive.scss" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/Theme/Oldenburg/css/responsive.scss">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="591">
+                  <caret line="269" column="23" selection-start-line="269" selection-start-column="23" selection-end-line="269" selection-end-column="23" />
+                  <folding>
+                    <element signature="e#63#199#0" expanded="false" />
+                    <element signature="e#250#331#0" expanded="false" />
+                    <element signature="e#381#546#0" expanded="false" />
+                    <element signature="e#573#894#0" expanded="false" />
+                    <element signature="e#2205#2706#0" expanded="false" />
+                    <element signature="e#2220#2702#0" expanded="false" />
+                    <element signature="e#3362#4500#0" expanded="false" />
+                    <element signature="e#3594#4204#0" expanded="false" />
+                    <element signature="e#4632#4712#0" expanded="false" />
+                    <element signature="e#5236#5405#0" expanded="false" />
+                    <element signature="e#6612#6675#0" expanded="false" />
+                    <element signature="e#7055#7223#0" expanded="false" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/Theme/Oldenburg/js/main.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="88">
+                  <caret line="4" column="20" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="20" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="default.php" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/Plugin/Noticias/Widget/Noticias/skin/default.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="968">
+                  <caret line="44" column="8" selection-start-line="44" selection-start-column="8" selection-end-line="47" selection-end-column="14" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="responsive.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/Theme/Oldenburg/js/responsive.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="264">
+                  <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="20" selection-end-column="5" />
+                  <folding>
+                    <element signature="e#588#918#0" expanded="false" />
+                    <element signature="e#995#1323#0" expanded="false" />
+                    <element signature="e#1417#1680#0" expanded="false" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="change_row.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/Plugin/Eventos/Widget/Eventos/assets/change_row.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="528">
+                  <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+          <file leaf-file-name="theme.scss" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/Theme/Oldenburg/css/theme.scss">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="447">
+                  <caret line="634" column="25" selection-start-line="634" selection-start-column="25" selection-end-line="634" selection-end-column="25" />
+                  <folding>
+                    <element signature="e#1#30#0" expanded="false" />
+                    <element signature="e#54#100#0" expanded="false" />
+                    <element signature="e#107#1007#0" expanded="false" />
+                    <element signature="e#194#263#0" expanded="false" />
+                    <element signature="e#273#304#0" expanded="false" />
+                    <element signature="e#315#464#0" expanded="false" />
+                    <element signature="e#326#461#0" expanded="false" />
+                    <element signature="e#475#496#0" expanded="false" />
+                    <element signature="e#503#1005#0" expanded="false" />
+                    <element signature="e#566#1001#0" expanded="false" />
+                    <element signature="e#654#997#0" expanded="false" />
+                    <element signature="e#724#861#0" expanded="false" />
+                    <element signature="e#815#854#0" expanded="false" />
+                    <element signature="e#876#991#0" expanded="false" />
+                    <element signature="e#924#984#0" expanded="false" />
+                    <element signature="e#1014#2060#0" expanded="false" />
+                    <element signature="e#1101#1146#0" expanded="false" />
+                    <element signature="e#1161#1346#0" expanded="false" />
+                    <element signature="e#1185#1343#0" expanded="false" />
+                    <element signature="e#1265#1339#0" expanded="false" />
+                    <element signature="e#1359#1606#0" expanded="false" />
+                    <element signature="e#1412#1603#0" expanded="false" />
+                    <element signature="e#1419#1599#0" expanded="false" />
+                    <element signature="e#1536#1593#0" expanded="false" />
+                    <element signature="e#1621#1700#0" expanded="false" />
+                    <element signature="e#1713#1830#0" expanded="false" />
+                    <element signature="e#1741#1827#0" expanded="false" />
+                    <element signature="e#1796#1823#0" expanded="false" />
+                    <element signature="e#1843#1866#0" expanded="false" />
+                    <element signature="e#1884#2017#0" expanded="false" />
+                    <element signature="e#1953#2013#0" expanded="false" />
+                    <element signature="e#1986#2009#0" expanded="false" />
+                    <element signature="e#2032#2058#0" expanded="false" />
+                    <element signature="e#2065#2090#0" expanded="false" />
+                    <element signature="e#2261#2396#0" expanded="false" />
+                    <element signature="e#2349#2393#0" expanded="false" />
+                    <element signature="e#2411#2432#0" expanded="false" />
+                    <element signature="e#2445#2632#0" expanded="false" />
+                    <element signature="e#2646#2856#0" expanded="false" />
+                    <element signature="e#3028#3129#0" expanded="false" />
+                    <element signature="e#3036#3058#0" expanded="false" />
+                    <element signature="e#3143#3254#0" expanded="false" />
+                    <element signature="e#3267#3291#0" expanded="false" />
+                    <element signature="e#3304#3439#0" expanded="false" />
+                    <element signature="e#3447#3675#0" expanded="false" />
+                    <element signature="e#3488#3671#0" expanded="false" />
+                    <element signature="e#3689#3753#0" expanded="false" />
+                    <element signature="e#3767#4600#0" expanded="false" />
+                    <element signature="e#3873#3894#0" expanded="false" />
+                    <element signature="e#3907#4073#0" expanded="false" />
+                    <element signature="e#4086#4178#0" expanded="false" />
+                    <element signature="e#4094#4116#0" expanded="false" />
+                    <element signature="e#4190#4375#0" expanded="false" />
+                    <element signature="e#4387#4466#0" expanded="false" />
+                    <element signature="e#4477#4598#0" expanded="false" />
+                    <element signature="e#4574#4595#0" expanded="false" />
+                    <element signature="e#4616#6636#0" expanded="false" />
+                    <element signature="e#4750#4872#0" expanded="false" />
+                    <element signature="e#4778#4869#0" expanded="false" />
+                    <element signature="e#4885#5064#0" expanded="false" />
+                    <element signature="e#4911#5060#0" expanded="false" />
+                    <element signature="e#5078#5393#0" expanded="false" />
+                    <element signature="e#5181#5303#0" expanded="false" />
+                    <element signature="e#5309#5390#0" expanded="false" />
+                    <element signature="e#5406#6381#0" expanded="false" />
+                    <element signature="e#5450#6378#0" expanded="false" />
+                    <element signature="e#5817#5904#0" expanded="false" />
+                    <element signature="e#5921#5942#0" expanded="false" />
+                    <element signature="e#5966#6234#0" expanded="false" />
+                    <element signature="e#6247#6269#0" expanded="false" />
+                    <element signature="e#6281#6304#0" expanded="false" />
+                    <element signature="e#6316#6339#0" expanded="false" />
+                    <element signature="e#6351#6374#0" expanded="false" />
+                    <element signature="e#6411#6586#0" expanded="false" />
+                    <element signature="e#6654#8254#0" expanded="false" />
+                    <element signature="e#6758#6894#0" expanded="false" />
+                    <element signature="e#6846#6890#0" expanded="false" />
+                    <element signature="e#6907#7131#0" expanded="false" />
+                    <element signature="e#6962#6985#0" expanded="false" />
+                    <element signature="e#6999#7066#0" expanded="false" />
+                    <element signature="e#7036#7062#0" expanded="false" />
+                    <element signature="e#7080#7128#0" expanded="false" />
+                    <element signature="e#7145#7331#0" expanded="false" />
+                    <element signature="e#7345#7543#0" expanded="false" />
+                    <element signature="e#7558#7579#0" expanded="false" />
+                    <element signature="e#7592#8252#0" expanded="false" />
+                    <element signature="e#7751#7898#0" expanded="false" />
+                    <element signature="e#7759#7787#0" expanded="false" />
+                    <element signature="e#7913#8045#0" expanded="false" />
+                    <element signature="e#8059#8086#0" expanded="false" />
+                    <element signature="e#8100#8210#0" expanded="false" />
+                    <element signature="e#8226#8249#0" expanded="false" />
+                    <element signature="e#8271#9103#0" expanded="false" />
+                    <element signature="e#8352#8391#0" expanded="false" />
+                    <element signature="e#8413#8521#0" expanded="false" />
+                    <element signature="e#8532#9101#0" expanded="false" />
+                    <element signature="e#8610#8635#0" expanded="false" />
+                    <element signature="e#8652#9097#0" expanded="false" />
+                    <element signature="e#8763#8836#0" expanded="false" />
+                    <element signature="e#8854#8900#0" expanded="false" />
+                    <element signature="e#8868#8895#0" expanded="false" />
+                    <element signature="e#8910#9093#0" expanded="false" />
+                    <element signature="e#9058#9088#0" expanded="false" />
+                    <element signature="e#9315#9429#0" expanded="false" />
+                    <element signature="e#9702#9816#0" expanded="false" />
+                    <element signature="e#9750#9812#0" expanded="false" />
+                    <element signature="e#9779#9807#0" expanded="false" />
+                    <element signature="e#9825#9879#0" expanded="false" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="default.php" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/Plugin/Pedidos/Widget/Pedidos/skin/default.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="0">
+                  <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="29" selection-end-column="6" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Plugin/MRSlider/Widget/Slider/Skin/default.php" />
+        <option value="$PROJECT_DIR$/src/Plugin/MRSlider/Widget/Slider/assets/slider_view.js" />
+        <option value="$PROJECT_DIR$/src/Plugin/AsdSlider/Widget/AsdSlider/snippet/gallery.php" />
+        <option value="$PROJECT_DIR$/src/Plugin/AsdSlider/Widget/AsdSlider/Controller.php" />
+        <option value="$PROJECT_DIR$/src/Plugin/AsdSlider/Widget/AsdSlider/skin/default.php" />
+        <option value="$PROJECT_DIR$/src/Plugin/AsdSlider/assets/jquery.bxslider.css" />
+        <option value="$PROJECT_DIR$/src/Plugin/Slider/assets/jquery.bxslider.js" />
+        <option value="$PROJECT_DIR$/src/Plugin/AsdSlider/assets/jquery.bxslider.min.js" />
+        <option value="$PROJECT_DIR$/src/Plugin/SlideShow/view/editPopup.php" />
+        <option value="$PROJECT_DIR$/src/Plugin/SlideShow/AdminController.php" />
+        <option value="$PROJECT_DIR$/src/Plugin/SlideShow/Config.php" />
+        <option value="$PROJECT_DIR$/src/Plugin/SlideShow/assets/gridWidget.css" />
+        <option value="$PROJECT_DIR$/src/Plugin/SlideShow/Widget/SlideShow/Controller.php" />
+        <option value="$PROJECT_DIR$/src/Plugin/SlideShow/Event.php" />
+        <option value="$PROJECT_DIR$/src/Ip/Internal/Pages/Model.php" />
+        <option value="$PROJECT_DIR$/src/Plugin/Contenido/SlugField.php" />
+        <option value="$PROJECT_DIR$/src/Plugin/Contenido/GridSlugField.php" />
+        <option value="$PROJECT_DIR$/src/Plugin/Noticias/Widget/Noticias/Controller.php" />
+        <option value="$PROJECT_DIR$/src/Plugin/Noticias/Widget/Noticias/Slot.php" />
+        <option value="$PROJECT_DIR$/src/Plugin/Noticias/Slot.php" />
+        <option value="$PROJECT_DIR$/src/Theme/Oldenburg/news_inner.php" />
+        <option value="$PROJECT_DIR$/src/Theme/Oldenburg/js/myCustom.js" />
+        <option value="$PROJECT_DIR$/src/Plugin/Noticias/Setup/plugin.json" />
+        <option value="$PROJECT_DIR$/src/Plugin/Carta/Setup/plugin.json" />
+        <option value="$PROJECT_DIR$/src/Plugin/Carta/AdminController.php" />
+        <option value="$PROJECT_DIR$/src/Plugin/Carta/Setup/worker.php" />
+        <option value="$PROJECT_DIR$/src/Plugin/Carta/Widget/skin/assets/Carta.js" />
+        <option value="$PROJECT_DIR$/src/Plugin/Carta/Widget/Carta/Controller.php" />
+        <option value="$PROJECT_DIR$/src/Plugin/Eventos/Setup/plugin.json" />
+        <option value="$PROJECT_DIR$/src/Plugin/Eventos/Setup/worker.php" />
+        <option value="$PROJECT_DIR$/src/Plugin/Eventos/AdminController.php" />
+        <option value="$PROJECT_DIR$/src/Plugin/Eventos/Widget/Eventos/Controller.php" />
+        <option value="$PROJECT_DIR$/src/Plugin/Carta/Widget/Carta/skin/default.php" />
+        <option value="$PROJECT_DIR$/src/Plugin/Carta/Widget/Carta/assets/Carta.js" />
+        <option value="$PROJECT_DIR$/src/Plugin/Noticias/Setup/worker.php" />
+        <option value="$PROJECT_DIR$/src/Plugin/Noticias/AdminController.php" />
+        <option value="$PROJECT_DIR$/src/Plugin/SlideShow/assets/style.css" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/src/Theme/Oldenburg/js/main.js" />
+        <option value="$PROJECT_DIR$/src/Theme/Oldenburg/includes/footer.php" />
+        <option value="$PROJECT_DIR$/src/Theme/Oldenburg/css/responsive.css" />
+        <option value="$PROJECT_DIR$/src/Plugin/SlideShow/Widget/SlideShow/skin/default.php" />
+        <option value="$PROJECT_DIR$/src/Plugin/Noticias/Widget/Noticias/skin/default.php" />
+        <option value="$PROJECT_DIR$/src/Plugin/Noticias/Widget/Noticias/assets/move_news.js" />
+        <option value="$PROJECT_DIR$/src/Plugin/Eventos/Widget/Eventos/skin/default.php" />
+        <option value="$PROJECT_DIR$/src/Theme/Oldenburg/home.php" />
+        <option value="$PROJECT_DIR$/src/Theme/Oldenburg/includes/header.php" />
+        <option value="$PROJECT_DIR$/src/Plugin/Pedidos/Widget/Pedidos/skin/default.php" />
+        <option value="$PROJECT_DIR$/src/Theme/Oldenburg/js/responsive.js" />
+        <option value="$PROJECT_DIR$/src/Theme/Oldenburg/css/responsive.scss" />
+        <option value="$PROJECT_DIR$/src/Theme/Oldenburg/css/theme.scss" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Oldenburg" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Oldenburg" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Oldenburg" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Oldenburg" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Oldenburg" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Oldenburg" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Oldenburg" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Theme" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Oldenburg" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Oldenburg" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Oldenburg" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Theme" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Oldenburg" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Oldenburg" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Oldenburg" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Theme" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Oldenburg" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="includes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Oldenburg" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Oldenburg" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Theme" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Oldenburg" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Oldenburg" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Oldenburg" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Theme" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Oldenburg" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Oldenburg" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Plugin" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Oldenburg" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Oldenburg" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Plugin" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SlideShow" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Oldenburg" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Oldenburg" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Plugin" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SlideShow" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Widget" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SlideShow" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Oldenburg" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Oldenburg" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Plugin" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SlideShow" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Widget" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SlideShow" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skin" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Oldenburg" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Oldenburg" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Plugin" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pedidos" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Widget" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Oldenburg" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Oldenburg" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Plugin" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pedidos" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Widget" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pedidos" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skin" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="C:/Ruby22-x64/bin/scss.bat" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="SCCore&#9;null&#9;null" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Mierdas variaas\Oldenburg\src\Theme\Oldenburg\js" />
+      <recent name="D:\Mierdas variaas\Oldenburg\src\Theme\Oldenburg\img" />
+      <recent name="D:\Mierdas variaas\Oldenburg\src\Plugin\Contenido" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Mierdas variaas\Oldenburg\src\Theme\Oldenburg\img" />
+      <recent name="D:\Mierdas variaas\Oldenburg\src\Plugin\Carta\Widget\Carta" />
+      <recent name="D:\Mierdas variaas\Oldenburg\src\Plugin\Noticias" />
+      <recent name="D:\Mierdas variaas\Oldenburg\src\Plugin\Noticias\Widget" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7ea32bd6-b587-46d6-9610-a508fe66b635" name="Default" comment="" />
+      <created>1461694440208</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1461694440208</updated>
+      <workItem from="1473426989277" duration="4009000" />
+      <workItem from="1473592980115" duration="15337000" />
+      <workItem from="1474214188871" duration="2685000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="22031000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16738197" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295711" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32731378" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32731378" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Plugin/Carta/Setup/plugin.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Theme/Oldenburg/img/carta-bg.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Plugin/SlideShow/AdminController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="110" column="42" selection-start-line="110" selection-start-column="41" selection-end-line="110" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Plugin/SlideShow/Config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="25" column="44" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Plugin/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="16" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Plugin/SlideShow/Widget/SlideShow/Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="26" column="70" selection-start-line="26" selection-start-column="69" selection-end-line="26" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Plugin/SlideShow/Widget/SlideShow/assets/SlideShow.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="81" column="21" selection-start-line="81" selection-start-column="19" selection-end-line="81" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Theme/Oldenburg/img/news-bg.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Theme/Oldenburg/img/noticia-bg.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Plugin/Noticias/Setup/plugin.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Plugin/Eventos/Setup/plugin.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Plugin/Eventos/Setup/worker.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Plugin/Carta/AdminController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="17" column="22" selection-start-line="0" selection-start-column="0" selection-end-line="42" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Plugin/Carta/Widget/Carta/Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Plugin/Eventos/AdminController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Plugin/Carta/Setup/worker.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="12" column="29" selection-start-line="0" selection-start-column="0" selection-end-line="36" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Plugin/Eventos/Widget/Eventos/Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Plugin/SlideShow/assets/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="1" column="36" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Plugin/SlideShow/assets/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="219" column="22" selection-start-line="219" selection-start-column="22" selection-end-line="219" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Plugin/SlideShow/assets/gridWidget.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Plugin/SlideShow/assets/admin_custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="102" selection-start-line="0" selection-start-column="102" selection-end-line="0" selection-end-column="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Plugin/Carta/Widget/Carta/assets/Carta.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Theme/Oldenburg/news_inner.php" />
+    <entry file="file://$PROJECT_DIR$/src/Plugin/Noticias/Widget/Noticias/Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Plugin/Noticias/Setup/worker.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Plugin/Noticias/AdminController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Plugin/SlideShow/assets/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="34" column="21" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/config.php_bak">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" column="2" selection-start-line="21" selection-start-column="2" selection-end-line="21" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Theme/Oldenburg/css/_layouts.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Plugin/Carta/Widget/Carta/skin/default.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="20" column="2" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Theme/Oldenburg/includes/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="45" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Theme/Oldenburg/css/_responsive.scss" />
+    <entry file="file://$PROJECT_DIR$/src/Theme/Oldenburg/css/_layouts_s.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Theme/Oldenburg/css/responsive.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="87" column="0" selection-start-line="87" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Plugin/SlideShow/Widget/SlideShow/skin/default.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="29" column="40" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Plugin/Noticias/Widget/Noticias/assets/move_news.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="677">
+          <caret line="37" column="50" selection-start-line="37" selection-start-column="50" selection-end-line="37" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Plugin/Eventos/Widget/Eventos/assets/change_row.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Plugin/Noticias/Widget/Noticias/skin/default.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="968">
+          <caret line="44" column="8" selection-start-line="44" selection-start-column="8" selection-end-line="47" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Plugin/Pedidos/Widget/Pedidos/skin/default.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="29" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Theme/Oldenburg/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Plugin/Eventos/Widget/Eventos/skin/default.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="43" column="14" selection-start-line="43" selection-start-column="14" selection-end-line="43" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Theme/Oldenburg/includes/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="29" column="39" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Theme/Oldenburg/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Theme/Oldenburg/js/responsive.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="20" selection-end-column="5" />
+          <folding>
+            <element signature="e#588#918#0" expanded="false" />
+            <element signature="e#995#1323#0" expanded="false" />
+            <element signature="e#1417#1680#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Theme/Oldenburg/css/responsive.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="591">
+          <caret line="269" column="23" selection-start-line="269" selection-start-column="23" selection-end-line="269" selection-end-column="23" />
+          <folding>
+            <element signature="e#63#199#0" expanded="false" />
+            <element signature="e#250#331#0" expanded="false" />
+            <element signature="e#381#546#0" expanded="false" />
+            <element signature="e#573#894#0" expanded="false" />
+            <element signature="e#2205#2706#0" expanded="false" />
+            <element signature="e#2220#2702#0" expanded="false" />
+            <element signature="e#3362#4500#0" expanded="false" />
+            <element signature="e#3594#4204#0" expanded="false" />
+            <element signature="e#4632#4712#0" expanded="false" />
+            <element signature="e#5236#5405#0" expanded="false" />
+            <element signature="e#6612#6675#0" expanded="false" />
+            <element signature="e#7055#7223#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Theme/Oldenburg/css/theme.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="447">
+          <caret line="634" column="25" selection-start-line="634" selection-start-column="25" selection-end-line="634" selection-end-column="25" />
+          <folding>
+            <element signature="e#1#30#0" expanded="false" />
+            <element signature="e#54#100#0" expanded="false" />
+            <element signature="e#107#1007#0" expanded="false" />
+            <element signature="e#194#263#0" expanded="false" />
+            <element signature="e#273#304#0" expanded="false" />
+            <element signature="e#315#464#0" expanded="false" />
+            <element signature="e#326#461#0" expanded="false" />
+            <element signature="e#475#496#0" expanded="false" />
+            <element signature="e#503#1005#0" expanded="false" />
+            <element signature="e#566#1001#0" expanded="false" />
+            <element signature="e#654#997#0" expanded="false" />
+            <element signature="e#724#861#0" expanded="false" />
+            <element signature="e#815#854#0" expanded="false" />
+            <element signature="e#876#991#0" expanded="false" />
+            <element signature="e#924#984#0" expanded="false" />
+            <element signature="e#1014#2060#0" expanded="false" />
+            <element signature="e#1101#1146#0" expanded="false" />
+            <element signature="e#1161#1346#0" expanded="false" />
+            <element signature="e#1185#1343#0" expanded="false" />
+            <element signature="e#1265#1339#0" expanded="false" />
+            <element signature="e#1359#1606#0" expanded="false" />
+            <element signature="e#1412#1603#0" expanded="false" />
+            <element signature="e#1419#1599#0" expanded="false" />
+            <element signature="e#1536#1593#0" expanded="false" />
+            <element signature="e#1621#1700#0" expanded="false" />
+            <element signature="e#1713#1830#0" expanded="false" />
+            <element signature="e#1741#1827#0" expanded="false" />
+            <element signature="e#1796#1823#0" expanded="false" />
+            <element signature="e#1843#1866#0" expanded="false" />
+            <element signature="e#1884#2017#0" expanded="false" />
+            <element signature="e#1953#2013#0" expanded="false" />
+            <element signature="e#1986#2009#0" expanded="false" />
+            <element signature="e#2032#2058#0" expanded="false" />
+            <element signature="e#2065#2090#0" expanded="false" />
+            <element signature="e#2261#2396#0" expanded="false" />
+            <element signature="e#2349#2393#0" expanded="false" />
+            <element signature="e#2411#2432#0" expanded="false" />
+            <element signature="e#2445#2632#0" expanded="false" />
+            <element signature="e#2646#2856#0" expanded="false" />
+            <element signature="e#3028#3129#0" expanded="false" />
+            <element signature="e#3036#3058#0" expanded="false" />
+            <element signature="e#3143#3254#0" expanded="false" />
+            <element signature="e#3267#3291#0" expanded="false" />
+            <element signature="e#3304#3439#0" expanded="false" />
+            <element signature="e#3447#3675#0" expanded="false" />
+            <element signature="e#3488#3671#0" expanded="false" />
+            <element signature="e#3689#3753#0" expanded="false" />
+            <element signature="e#3767#4600#0" expanded="false" />
+            <element signature="e#3873#3894#0" expanded="false" />
+            <element signature="e#3907#4073#0" expanded="false" />
+            <element signature="e#4086#4178#0" expanded="false" />
+            <element signature="e#4094#4116#0" expanded="false" />
+            <element signature="e#4190#4375#0" expanded="false" />
+            <element signature="e#4387#4466#0" expanded="false" />
+            <element signature="e#4477#4598#0" expanded="false" />
+            <element signature="e#4574#4595#0" expanded="false" />
+            <element signature="e#4616#6636#0" expanded="false" />
+            <element signature="e#4750#4872#0" expanded="false" />
+            <element signature="e#4778#4869#0" expanded="false" />
+            <element signature="e#4885#5064#0" expanded="false" />
+            <element signature="e#4911#5060#0" expanded="false" />
+            <element signature="e#5078#5393#0" expanded="false" />
+            <element signature="e#5181#5303#0" expanded="false" />
+            <element signature="e#5309#5390#0" expanded="false" />
+            <element signature="e#5406#6381#0" expanded="false" />
+            <element signature="e#5450#6378#0" expanded="false" />
+            <element signature="e#5817#5904#0" expanded="false" />
+            <element signature="e#5921#5942#0" expanded="false" />
+            <element signature="e#5966#6234#0" expanded="false" />
+            <element signature="e#6247#6269#0" expanded="false" />
+            <element signature="e#6281#6304#0" expanded="false" />
+            <element signature="e#6316#6339#0" expanded="false" />
+            <element signature="e#6351#6374#0" expanded="false" />
+            <element signature="e#6411#6586#0" expanded="false" />
+            <element signature="e#6654#8254#0" expanded="false" />
+            <element signature="e#6758#6894#0" expanded="false" />
+            <element signature="e#6846#6890#0" expanded="false" />
+            <element signature="e#6907#7131#0" expanded="false" />
+            <element signature="e#6962#6985#0" expanded="false" />
+            <element signature="e#6999#7066#0" expanded="false" />
+            <element signature="e#7036#7062#0" expanded="false" />
+            <element signature="e#7080#7128#0" expanded="false" />
+            <element signature="e#7145#7331#0" expanded="false" />
+            <element signature="e#7345#7543#0" expanded="false" />
+            <element signature="e#7558#7579#0" expanded="false" />
+            <element signature="e#7592#8252#0" expanded="false" />
+            <element signature="e#7751#7898#0" expanded="false" />
+            <element signature="e#7759#7787#0" expanded="false" />
+            <element signature="e#7913#8045#0" expanded="false" />
+            <element signature="e#8059#8086#0" expanded="false" />
+            <element signature="e#8100#8210#0" expanded="false" />
+            <element signature="e#8226#8249#0" expanded="false" />
+            <element signature="e#8271#9103#0" expanded="false" />
+            <element signature="e#8352#8391#0" expanded="false" />
+            <element signature="e#8413#8521#0" expanded="false" />
+            <element signature="e#8532#9101#0" expanded="false" />
+            <element signature="e#8610#8635#0" expanded="false" />
+            <element signature="e#8652#9097#0" expanded="false" />
+            <element signature="e#8763#8836#0" expanded="false" />
+            <element signature="e#8854#8900#0" expanded="false" />
+            <element signature="e#8868#8895#0" expanded="false" />
+            <element signature="e#8910#9093#0" expanded="false" />
+            <element signature="e#9058#9088#0" expanded="false" />
+            <element signature="e#9315#9429#0" expanded="false" />
+            <element signature="e#9702#9816#0" expanded="false" />
+            <element signature="e#9750#9812#0" expanded="false" />
+            <element signature="e#9779#9807#0" expanded="false" />
+            <element signature="e#9825#9879#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

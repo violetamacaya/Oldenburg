@@ -1,0 +1,25 @@
+/*	==========================================================================
+	Mixins
+	========================================================================== */
+
+@mixin opacity($trans) {
+	filter: alpha(opactiy=($trans * 100));
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=#{$trans * 100}) !important";
+	-moz-opacity: $trans;
+	-khtml-opacity: $trans;
+	opacity: $trans;
+}
+
+@mixin border-radius($radius) {
+	-webkit-border-radius: $radius;
+	-moz-border-radius: $radius;
+	border-radius: $radius;
+}
+
+@mixin font-sans-serif(){
+	font-family: $font-family-sans-serif;
+}
+
+@mixin font-serif(){
+	font-family: $font-family-serif;
+}

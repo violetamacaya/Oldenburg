@@ -1,0 +1,21 @@
+@font-face {font-family: 'Tungsten-Book';src: url('../fonts/Tungsten-Book.eot');  src: url('../fonts/Tungsten-Book.ttf') format('truetype'), url('../fonts/Tungsten-Book.woff') format('woff'), url('../fonts/Tungsten-Book.svg#wf') format('svg');}
+@font-face {font-family: 'Tungsten-Semibold';src: url('../fonts/Tungsten-Semibold.eot'); src: url('../fonts/Tungsten-Semibold.ttf') format('truetype'), url('../fonts/Tungsten-Semibold.woff') format('woff'),url('../fonts/Tungsten-Semibold.svg#wf') format('svg');}
+@font-face {font-family: 'Tungsten-Medium'; src: url('../fonts/Tungsten-Medium.eot'); src: url('../fonts/Tungsten-Medium.ttf') format('truetype'), url('../fonts/Tungsten-Medium.woff') format('woff'), url('../fonts/Tungsten-Medium.svg#wf') format('svg');}
+@font-face {font-family: 'OpenSans-Semibold'; src: url('../fonts/OpenSans-Semibold.eot'); src: url('../fonts/OpenSans-Semibold.ttf') format('truetype'), url('../fonts/OpenSans-Semibold.woff') format('woff'), url('../fonts/OpenSans-Semibold.svg#wf') format('svg');}
+@font-face {font-family: 'OpenSans-Regular'; src: url('../fonts/OpenSans-Regular.eot');src: url('../fonts/OpenSans-Regular.ttf') format('truetype'), url('../fonts/OpenSans.woff') format('woff'), url('../fonts/OpenSans.svg#wf') format('svg');}
+@font-face {font-family: 'OpenSans-Italic'; src: url('../fonts/OpenSans-Italic.eot');src: url('../fonts/OpenSans-Italic.ttf') format('truetype'), url('../fonts/OpenSans-Italic.woff') format('woff'), url('../fonts/OpenSans-Italic.svg#wf') format('svg');}
+@font-face {font-family: 'OpenSans-CondLight';src: url('../fonts/OpenSans-CondLight-webfont.eot'); src: url('../fonts/OpenSans-CondLight-webfont.ttf') format('truetype'), url('../fonts/OpenSans-CondLight-webfont.woff') format('woff'), url('../fonts/OpenSans-CondLight-webfont.svg#wf') format('svg');}
+@font-face {font-family: 'Amatic-Bold'; src: url('../fonts/amatic-sc.bold.eot'); src: url('../fonts/amatic-sc.bold.ttf') format('truetype'), url('../fonts/AmaticSC-Bold.woff') format('woff'), url('../fonts/AmaticSC-Bold.svg#wf') format('svg');}
+@font-face {font-family: 'Raleway-Bold'; src: url('../fonts/Raleway-Bold.eot'); src: url('../fonts/Raleway-Bold.ttf') format('truetype'), url('../fonts/Raleway-Bold.woff') format('woff'), url('../fonts/Raleway-Bold.svg#wf') format('svg');}
+
+
+
+$font-t-book: "Tungsten-Book";
+$font-t-semibold: 'Tungsten-Semibold';
+$font-t-medium: 'Tungsten-Medium';
+$font-o-semibold: 'OpenSans-Semibold';
+$font-o-regular: 'OpenSans-Regular';
+$font-o-italic: 'OpenSans-Italic';
+$font-oc-light: 'OpenSans-CondLight';
+$font-a-bold: 'Amatic-Bold';
+$font-r-bold: 'Raleway-Bold';
