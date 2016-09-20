@@ -1,0 +1,1586 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7ba2c15e-ba53-4356-974d-ec8ec9d6f70c" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/js/vendor/lang/zh-CN.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/fonts/bebasneue_light-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/_code.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Plugin/MRSlider/Widget/Slider/Controller.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/mixins/_text-emphasis.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/_navbar.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/js/vendor/lang/ko.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/img/fb-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/_navbar.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/_responsive-utilities.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/mixins/_alerts.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/_utilities.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/mixins/_reset-filter.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/_progress-bars.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/_navs.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/_normalize.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/_pager.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/css/fonts.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/fonts/2F9415_2_0.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/_type.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/css/_config.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/js/vendor/lang/it.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/fonts/bootstrap/glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/mixins/_nav-divider.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/fonts/2F9415_1_0.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/fonts/bebasneue_light-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/mixins/_center-block.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/mixins/_background-variant.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/mixins/_image.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/css/styles.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/css/_general.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/includes/footer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/img/sh-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/mixins/_size.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/_forms.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/fonts/bebasneue_book-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/img/tw-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/mixins/_border-radius.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/_glyphicons.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/img/right-arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/js/vendor/lang/bg.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/css/main.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/_theme.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/_labels.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/_badges.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/fonts/bebasneue_thin-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/_popovers.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/css/theme.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/mixins/_responsive-visibility.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/css/_responsive.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/home.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/_thumbnails.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/_tables.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/mixins/_tab-focus.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/mixins/_list-group.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/_wells.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/_navs.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/css/_layouts.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/_panels.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/mixins/_opacity.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/_progress-bars.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/_type.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/_badges.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/mixins/_clearfix.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/fonts/bootstrap/glyphicons-halflings-regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/_close.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/mixins/_list-group.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/mixins/_center-block.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/_input-groups.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/mixins/_gradients.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/mixins/_table-row.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/_dropdowns.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/_pagination.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/_close.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/fonts/bebasneue_book-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/_mixins.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/fonts/bebasneue_light-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/fonts/bebasneue_bold-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/js/vendor/lang/pt-BR.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/img/header-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/_carousel.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/img/social-icons.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/css/theme.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/_variables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/_glyphicons.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/js/vendor/lang/ru.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/img/youtube-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/javascripts/bootstrap/transition.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/css/_ip_widgets.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/mixins/_background-variant.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/main.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/mixins/_labels.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/javascripts/bootstrap/popover.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/fonts/bebasneue_bold-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/mixins/_border-radius.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/_tooltip.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/_responsive-utilities.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/fonts/bebasneue_regular-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/mixins/_image.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/fonts/2F9415_3_0.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/_responsive-embed.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/mixins/_vendor-prefixes.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/img/tw-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/js/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/mixins/_alerts.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/fonts/2F9415_3_0.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/_list-group.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/mixins/_table-row.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/fonts/bebasneue_book-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/mixins/_vendor-prefixes.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/fonts/2F93DF_0_0.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/fonts/2F9415_3_0.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/mixins/_responsive-visibility.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/mixins/_progress-bar.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/js/vendor/lang/cs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/mixins/_resize.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/_alerts.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/images/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/js/vendor/lang/vi.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/javascripts/bootstrap-sprockets.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/_print.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/mixins/_grid-framework.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/_component-animations.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/fonts/bebasneue_bold-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/mixins/_resize.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/mixins/_opacity.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/css/normalize.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/javascripts/bootstrap/tab.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/_list-group.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/includes/header.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/fonts/2F93DF_0_0.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/mixins/_text-overflow.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/img/help-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/_modals.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/_grid.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/img/school-ico.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/fonts/bebasneue_book-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/mixins/_labels.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/js/vendor/lang/es.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/fonts/2F9415_1_0.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/javascripts/bootstrap/tooltip.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/_button-groups.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Plugin/MRCountry/AdminController.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/_grid.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Plugin/MRSlider/Widget/Slider/assets/slider_view.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/js/vendor/lang/de.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/fonts/2F9415_1_0.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/mixins/_forms.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/_scaffolding.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/fonts/2F9415_2_0.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/css/_mixins.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/mixins/_grid.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/_responsive-embed.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/css/styles.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/mixins/_size.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/mixins/_text-emphasis.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/_buttons.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/fonts/bebasneue_bold-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/javascripts/bootstrap/modal.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/fonts/font.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/js/vendor/lang/ar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/img/yb-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/mixins/_grid.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/fonts/2F9415_2_0.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/img/left-arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/mixins/_text-overflow.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/_labels.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/javascripts/bootstrap/dropdown.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/_media.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/js/vendor/lang/tr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/_component-animations.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/mixins/_gradients.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/css/_layouts_s.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/js/vendor/lang/ca.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/_dropdowns.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/_breadcrumbs.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/js/vendor/lang/ja.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/fonts/bebasneue_bold-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/_utilities.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/img/footer-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/javascripts/bootstrap/collapse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/javascripts/bootstrap/scrollspy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/_bootstrap.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/fonts/bootstrap/glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/js/vendor/lang/nl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/_modals.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/fonts/bebasneue_regular-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/_panels.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/mixins/_tab-focus.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/javascripts/bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/fonts/bebasneue_thin-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/_button-groups.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/_normalize.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/mixins/_clearfix.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/_tables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/fonts/bootstrap/glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/_input-groups.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/fonts/2F9415_3_0.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/fonts/bebasneue_light-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/css/_bootstrap_theme.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/javascripts/bootstrap/button.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/setup/theme.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Plugin/MRSlider/Widget/Slider/assets/icon.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/mixins/_buttons.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/mixins/_panels.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/mixins/_nav-vertical-align.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/_media.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/css/_bootstrap.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/fonts/bebasneue_regular-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/js/vendor/modernizr-2.8.3.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/mixins/_reset-filter.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Plugin/MRSlider/Widget/Slider/Skin/default.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/fonts/bebasneue_book-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/js/vendor/jquery-1.11.3.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/fonts/2F93DF_0_0.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/_alerts.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/_carousel.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/mixins/_buttons.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/fonts/2F9415_2_0.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/js/vendor/lang/hu.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/mixins/_grid-framework.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/_forms.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/css/styles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/mixins/_forms.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/javascripts/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/mixins/_nav-divider.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/_print.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/mixins/_nav-vertical-align.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/img/slider-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Plugin/MRSlider/AdminController.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/js/vendor/jquery.easing.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/_code.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/_jumbotron.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/fonts/bebasneue_thin-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/setup/thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/fonts/bebasneue_thin-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/fonts/2F9415_0_0.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/_pager.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/mixins/_pagination.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/mixins/_progress-bar.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/fonts/bebasneue_regular-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/mixins/_pagination.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/_buttons.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/_scaffolding.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/fonts/bebasneue_light-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/_pagination.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/fonts/2F9415_1_0.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/javascripts/bootstrap/alert.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/javascripts/bootstrap/carousel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/js/vendor/lang/zh-TW.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/fonts/bebasneue_regular-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/javascripts/bootstrap/affix.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/_breadcrumbs.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/mixins/_hide-text.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/fonts/bootstrap/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/mixins/_hide-text.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/_tooltip.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/_thumbnails.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/fonts/bebasneue_thin-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/fonts/2F93DF_0_0.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/fonts/2F9415_3_0.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/js/vendor/lang/uk.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/mixins/_panels.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/img/fb-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/_bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/_theme.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/fonts/2F9415_2_0.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/_jumbotron.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/fonts/2F9415_1_0.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/_popovers.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/js/vendor/lang/fr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Theme/SCCore/vendor/css/bootstrap/_wells.scss" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ip/Internal/Pages/Model.php" afterPath="$PROJECT_DIR$/Ip/Internal/Pages/Model.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.php" afterPath="$PROJECT_DIR$/config.php" />
+    </list>
+    <ignored path="src.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="src" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.6703678">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+          <file leaf-file-name="theme.scss" pinned="true" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Theme/Oldenburg/css/theme.scss">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="610">
+                  <caret line="602" column="21" selection-start-line="602" selection-start-column="21" selection-end-line="602" selection-end-column="21" />
+                  <folding>
+                    <element signature="e#1#30#0" expanded="false" />
+                    <element signature="e#54#100#0" expanded="false" />
+                    <element signature="e#107#991#0" expanded="false" />
+                    <element signature="e#194#263#0" expanded="false" />
+                    <element signature="e#273#304#0" expanded="false" />
+                    <element signature="e#550#985#0" expanded="false" />
+                    <element signature="e#638#981#0" expanded="false" />
+                    <element signature="e#708#845#0" expanded="false" />
+                    <element signature="e#799#838#0" expanded="false" />
+                    <element signature="e#860#975#0" expanded="false" />
+                    <element signature="e#908#968#0" expanded="false" />
+                    <element signature="e#998#2044#0" expanded="false" />
+                    <element signature="e#1085#1130#0" expanded="false" />
+                    <element signature="e#1145#1330#0" expanded="false" />
+                    <element signature="e#1169#1327#0" expanded="false" />
+                    <element signature="e#1249#1323#0" expanded="false" />
+                    <element signature="e#1343#1590#0" expanded="false" />
+                    <element signature="e#1396#1587#0" expanded="false" />
+                    <element signature="e#1403#1583#0" expanded="false" />
+                    <element signature="e#1520#1577#0" expanded="false" />
+                    <element signature="e#1605#1684#0" expanded="false" />
+                    <element signature="e#1697#1814#0" expanded="false" />
+                    <element signature="e#1725#1811#0" expanded="false" />
+                    <element signature="e#1780#1807#0" expanded="false" />
+                    <element signature="e#1827#1850#0" expanded="false" />
+                    <element signature="e#2049#2074#0" expanded="false" />
+                    <element signature="e#2093#3681#0" expanded="false" />
+                    <element signature="e#2245#2381#0" expanded="false" />
+                    <element signature="e#2333#2377#0" expanded="false" />
+                    <element signature="e#2394#2581#0" expanded="false" />
+                    <element signature="e#2595#2805#0" expanded="false" />
+                    <element signature="e#2817#3604#0" expanded="false" />
+                    <element signature="e#2954#3055#0" expanded="false" />
+                    <element signature="e#2962#2984#0" expanded="false" />
+                    <element signature="e#3069#3180#0" expanded="false" />
+                    <element signature="e#3193#3217#0" expanded="false" />
+                    <element signature="e#3230#3365#0" expanded="false" />
+                    <element signature="e#3373#3601#0" expanded="false" />
+                    <element signature="e#3414#3597#0" expanded="false" />
+                    <element signature="e#3615#3679#0" expanded="false" />
+                    <element signature="e#3693#4491#0" expanded="false" />
+                    <element signature="e#3798#3964#0" expanded="false" />
+                    <element signature="e#3977#4069#0" expanded="false" />
+                    <element signature="e#3985#4007#0" expanded="false" />
+                    <element signature="e#4278#4357#0" expanded="false" />
+                    <element signature="e#4507#6527#0" expanded="false" />
+                    <element signature="e#4641#4763#0" expanded="false" />
+                    <element signature="e#4669#4760#0" expanded="false" />
+                    <element signature="e#4776#4955#0" expanded="false" />
+                    <element signature="e#4802#4951#0" expanded="false" />
+                    <element signature="e#4969#5284#0" expanded="false" />
+                    <element signature="e#5072#5194#0" expanded="false" />
+                    <element signature="e#5200#5281#0" expanded="false" />
+                    <element signature="e#5297#6272#0" expanded="false" />
+                    <element signature="e#5341#6269#0" expanded="false" />
+                    <element signature="e#5708#5795#0" expanded="false" />
+                    <element signature="e#5812#5833#0" expanded="false" />
+                    <element signature="e#5857#6125#0" expanded="false" />
+                    <element signature="e#6138#6160#0" expanded="false" />
+                    <element signature="e#6172#6195#0" expanded="false" />
+                    <element signature="e#6207#6230#0" expanded="false" />
+                    <element signature="e#6242#6265#0" expanded="false" />
+                    <element signature="e#6302#6477#0" expanded="false" />
+                    <element signature="e#6649#6785#0" expanded="false" />
+                    <element signature="e#6737#6781#0" expanded="false" />
+                    <element signature="e#6798#7022#0" expanded="false" />
+                    <element signature="e#6853#6876#0" expanded="false" />
+                    <element signature="e#6890#6957#0" expanded="false" />
+                    <element signature="e#6927#6953#0" expanded="false" />
+                    <element signature="e#6971#7019#0" expanded="false" />
+                    <element signature="e#7036#7222#0" expanded="false" />
+                    <element signature="e#7236#7434#0" expanded="false" />
+                    <element signature="e#7447#8068#0" expanded="false" />
+                    <element signature="e#7606#7753#0" expanded="false" />
+                    <element signature="e#7614#7642#0" expanded="false" />
+                    <element signature="e#7768#7900#0" expanded="false" />
+                    <element signature="e#7914#7941#0" expanded="false" />
+                    <element signature="e#7955#8065#0" expanded="false" />
+                    <element signature="e#8168#8207#0" expanded="false" />
+                    <element signature="e#8229#8337#0" expanded="false" />
+                    <element signature="e#8426#8451#0" expanded="false" />
+                    <element signature="e#8726#8909#0" expanded="false" />
+                    <element signature="e#8874#8904#0" expanded="false" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="default.php" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/Plugin/Pedidos/Widget/Pedidos/skin/default.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="528">
+                  <caret line="24" column="93" selection-start-line="24" selection-start-column="93" selection-end-line="24" selection-end-column="93" />
+                  <folding>
+                    <marker date="1469193792801" expanded="true" signature="992:1031" ph="SELECT `firs... ${$table}" />
+                    <marker date="1469193792801" expanded="true" signature="992:1032" ph="SELECT `link... ip_carta" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="default.php" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Plugin/Carta/Widget/Carta/skin/default.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="543">
+                  <caret line="55" column="13" selection-start-line="55" selection-start-column="13" selection-end-line="57" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Theme/Oldenburg/includes/header.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="132">
+                  <caret line="24" column="35" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+          <file leaf-file-name="responsive.scss" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Theme/Oldenburg/css/responsive.scss">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="506">
+                  <caret line="104" column="0" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
+                  <folding>
+                    <element signature="e#28#164#0" expanded="false" />
+                    <element signature="e#54#83#0" expanded="false" />
+                    <element signature="e#101#162#0" expanded="false" />
+                    <element signature="e#215#296#0" expanded="false" />
+                    <element signature="e#233#294#0" expanded="false" />
+                    <element signature="e#346#607#0" expanded="false" />
+                    <element signature="e#361#431#0" expanded="false" />
+                    <element signature="e#448#509#0" expanded="false" />
+                    <element signature="e#533#557#0" expanded="false" />
+                    <element signature="e#581#605#0" expanded="false" />
+                    <element signature="e#634#907#0" expanded="false" />
+                    <element signature="e#652#761#0" expanded="false" />
+                    <element signature="e#785#809#0" expanded="false" />
+                    <element signature="e#833#857#0" expanded="false" />
+                    <element signature="e#881#905#0" expanded="false" />
+                    <element signature="e#986#1483#0" expanded="false" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="AdminController.php" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Plugin/Noticias/AdminController.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="0">
+                  <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Controller.php" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/Plugin/Noticias/Widget/Noticias/Controller.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="374">
+                  <caret line="20" column="40" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
+                  <folding>
+                    <marker date="1469192221065" expanded="true" signature="340:353" ph="select * fro... " />
+                    <marker date="1469192221065" expanded="true" signature="340:384" ph="select * fro... ip_noticias" />
+                    <marker date="1469192221065" expanded="true" signature="340:395" ph="select * fro... " />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="styles.scss" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Theme/Oldenburg/css/styles.scss">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="946">
+                  <caret line="43" column="27" selection-start-line="43" selection-start-column="27" selection-end-line="43" selection-end-column="27" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Ip/Internal/Translations/translations/Ip-admin-nl.json" />
+        <option value="$PROJECT_DIR$/Ip/Internal/Translations/translations/Ip-admin-pl.json" />
+        <option value="$PROJECT_DIR$/Ip/Internal/Translations/translations/Ip-admin-pt_BR.json" />
+        <option value="$PROJECT_DIR$/Ip/Internal/Translations/translations/Ip-admin-ru.json" />
+        <option value="$PROJECT_DIR$/Ip/Internal/Translations/translations/Ip-admin-sk.json" />
+        <option value="$PROJECT_DIR$/Ip/Internal/Translations/translations/Ip-admin-sq_AL.json" />
+        <option value="$PROJECT_DIR$/Ip/Internal/Translations/translations/Ip-admin-ta.json" />
+        <option value="$PROJECT_DIR$/Ip/Internal/Translations/translations/Ip-admin-tr.json" />
+        <option value="$PROJECT_DIR$/Ip/Internal/Translations/translations/Ip-admin-zh_CN.json" />
+        <option value="$PROJECT_DIR$/Ip/Internal/Translations/translations/Ip-ar.json" />
+        <option value="$PROJECT_DIR$/Ip/Internal/Translations/translations/Ip-cs.json" />
+        <option value="$PROJECT_DIR$/Ip/Internal/Translations/translations/Ip-de.json" />
+        <option value="$PROJECT_DIR$/Ip/Internal/Translations/translations/Ip-es.json" />
+        <option value="$PROJECT_DIR$/Ip/Internal/Translations/translations/Ip-es_AR.json" />
+        <option value="$PROJECT_DIR$/Ip/Internal/Translations/translations/Ip-fa_IR.json" />
+        <option value="$PROJECT_DIR$/Ip/Internal/Translations/translations/Ip-fi.json" />
+        <option value="$PROJECT_DIR$/Ip/Internal/Translations/translations/Ip-fr.json" />
+        <option value="$PROJECT_DIR$/Ip/Internal/Translations/translations/Ip-hu.json" />
+        <option value="$PROJECT_DIR$/Ip/Internal/Translations/translations/Ip-it.json" />
+        <option value="$PROJECT_DIR$/Ip/Internal/Translations/translations/Ip-ja.json" />
+        <option value="$PROJECT_DIR$/Ip/Internal/Translations/translations/Ip-lt.json" />
+        <option value="$PROJECT_DIR$/Ip/Internal/Translations/translations/Ip-nl.json" />
+        <option value="$PROJECT_DIR$/Ip/Internal/Translations/translations/Ip-pl.json" />
+        <option value="$PROJECT_DIR$/Ip/Internal/Translations/translations/Ip-pt.json" />
+        <option value="$PROJECT_DIR$/file/translations/override/Ip-es.json" />
+        <option value="$PROJECT_DIR$/phpunit/Tests/Module/form/ValidatorTest.php" />
+        <option value="$PROJECT_DIR$/file/translations/override/Ip-admin-es.json" />
+        <option value="$PROJECT_DIR$/Ip/Internal/Translations/translations/Ip-tr.json" />
+        <option value="$PROJECT_DIR$/Ip/Internal/Translations/translations/Ip-ta.json" />
+        <option value="$PROJECT_DIR$/Ip/Internal/Translations/translations/Ip-sv.json" />
+        <option value="$PROJECT_DIR$/Ip/Internal/Translations/translations/Ip-sq_AL.json" />
+        <option value="$PROJECT_DIR$/Ip/Internal/Translations/translations/Ip-sk.json" />
+        <option value="$PROJECT_DIR$/Ip/Internal/Translations/translations/Ip-ru.json" />
+        <option value="$PROJECT_DIR$/Ip/Internal/Translations/translations/Ip-pt_BR.json" />
+        <option value="$PROJECT_DIR$/Plugin/Social/Widget/Social/skin/default.php" />
+        <option value="$PROJECT_DIR$/Ip/Internal/Content/Widget/Form/Controller.php" />
+        <option value="$PROJECT_DIR$/Ip/Internal/Translations/translations/Ip-en.json" />
+        <option value="$PROJECT_DIR$/Plugin/Pedidos/Widget/Controller.php" />
+        <option value="$PROJECT_DIR$/Plugin/Social/Widget/Controller.php" />
+        <option value="$PROJECT_DIR$/Theme/Oldenburg/includes/footer.php" />
+        <option value="$PROJECT_DIR$/Ip/Internal/Admin/assets/login.css" />
+        <option value="$PROJECT_DIR$/Ip/Internal/Admin/view/loginLayout.php" />
+        <option value="$PROJECT_DIR$/Theme/Oldenburg/css/responsive.css" />
+        <option value="$PROJECT_DIR$/Theme/Oldenburg/includes/header.php" />
+        <option value="$PROJECT_DIR$/Theme/Oldenburg/css/responsive.scss" />
+        <option value="$PROJECT_DIR$/Plugin/Noticias/Widget/Noticias/Controller.php" />
+        <option value="$PROJECT_DIR$/Theme/Oldenburg/css/theme.scss" />
+        <option value="$PROJECT_DIR$/Plugin/Carta/Setup/worker.php" />
+        <option value="$PROJECT_DIR$/Plugin/Carta/AdminController.php" />
+        <option value="$PROJECT_DIR$/Plugin/Carta/Widget/Carta/Controller.php" />
+        <option value="$PROJECT_DIR$/Plugin/Pedidos/Widget/Pedidos/skin/default.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="1" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Theme" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Oldenburg" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Theme" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Oldenburg" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="includes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Theme" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Oldenburg" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Theme" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Oldenburg" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="responsive.scss" />
+              <option name="myItemType" value="com.intellij.plugins.watcher.projectView.NestingTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Theme" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Plugin" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Plugin" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pedidos" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Widget" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Plugin" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pedidos" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Widget" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pedidos" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skin" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Plugin" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Noticias" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Plugin" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Noticias" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Widget" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Noticias" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Plugin" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Carta" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Plugin" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Carta" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Widget" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Carta" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Plugin" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Carta" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Widget" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Carta" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skin" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Plugin" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Carta" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Widget" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Carta" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Plugin" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Carta" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Setup" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="last_opened_file_path" value="C:/Ruby22-x64/bin/scss.bat" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Cosillas\Oldenburg\src\Plugin" />
+      <recent name="D:\Cosillas\Oldenburg\src\Plugin\Social" />
+      <recent name="D:\MR\SCCore\src\Theme\SCCore\fonts" />
+      <recent name="D:\MR\SCCore\src\Plugin\MRSlider\Widget\Slider\assets" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Cosillas\Oldenburg\src\Plugin\Social\Widget\Social" />
+      <recent name="D:\MR\SCCore\src\Theme\SCCore\fonts" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7ba2c15e-ba53-4356-974d-ec8ec9d6f70c" name="Default" comment="" />
+      <created>1461587424492</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1461587424492</updated>
+      <workItem from="1469118762754" duration="476000" />
+      <workItem from="1469119256911" duration="756000" />
+      <workItem from="1469120101352" duration="15065000" />
+      <workItem from="1469191994898" duration="3014000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="19311000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947916" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32821077" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32821077" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32913387" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963072" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32913387" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Ip/Internal/Translations/translations/Ip-cs.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ip/Internal/Translations/translations/Ip-de.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ip/Internal/Translations/translations/Ip-es_AR.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ip/Internal/Translations/translations/Ip-fa_IR.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ip/Internal/Translations/translations/Ip-fi.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ip/Internal/Translations/translations/Ip-fr.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ip/Internal/Translations/translations/Ip-hu.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ip/Internal/Translations/translations/Ip-it.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ip/Internal/Translations/translations/Ip-ja.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ip/Internal/Translations/translations/Ip-lt.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ip/Internal/Translations/translations/Ip-nl.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ip/Internal/Translations/translations/Ip-pl.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ip/Internal/Translations/translations/Ip-pt.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phpunit/Tests/Module/form/ValidatorTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file/translations/override/Ip-es.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file/translations/override/Ip-admin-es.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ip/Internal/Translations/translations/Ip-tr.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ip/Internal/Translations/translations/Ip-ta.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ip/Internal/Translations/translations/Ip-sv.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ip/Internal/Translations/translations/Ip-sq_AL.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ip/Internal/Translations/translations/Ip-sk.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ip/Internal/Translations/translations/Ip-ru.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ip/Internal/Translations/translations/Ip-pt_BR.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ip/Internal/Content/Widget/Form/helperView/email.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ip/Internal/Content/Widget/Form/helperView/email_content.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ip/Internal/Content/Widget/Form/helperView/success.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="36" selection-start-line="0" selection-start-column="36" selection-end-line="0" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ip/Internal/Content/Widget/Form/Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="124" column="63" selection-start-line="124" selection-start-column="63" selection-end-line="124" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ip/Internal/Translations/translations/Ip-en.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="29" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Plugin/Social/Widget/Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Plugin/Pedidos/Widget/Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Plugin/Social/Widget/Social/skin/default.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ip/Internal/Translations/translations/Ip-es.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Theme/Oldenburg/includes/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="22" column="103" selection-start-line="22" selection-start-column="59" selection-end-line="22" selection-end-column="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ip/Internal/Admin/assets/img/logo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ip/Internal/Admin/assets/img/bg.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ip/Internal/Admin/view/loginLayout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ip/Internal/Admin/assets/login.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Theme/Oldenburg/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Theme/Oldenburg/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Theme/Oldenburg/css/styles.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="946">
+          <caret line="43" column="27" selection-start-line="43" selection-start-column="27" selection-end-line="43" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Theme/Oldenburg/css/responsive.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="473">
+          <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Theme/Oldenburg/css/responsive.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="104" column="0" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
+          <folding>
+            <element signature="e#28#164#0" expanded="false" />
+            <element signature="e#54#83#0" expanded="false" />
+            <element signature="e#101#162#0" expanded="false" />
+            <element signature="e#215#296#0" expanded="false" />
+            <element signature="e#233#294#0" expanded="false" />
+            <element signature="e#346#607#0" expanded="false" />
+            <element signature="e#361#431#0" expanded="false" />
+            <element signature="e#448#509#0" expanded="false" />
+            <element signature="e#533#557#0" expanded="false" />
+            <element signature="e#581#605#0" expanded="false" />
+            <element signature="e#634#907#0" expanded="false" />
+            <element signature="e#652#761#0" expanded="false" />
+            <element signature="e#785#809#0" expanded="false" />
+            <element signature="e#833#857#0" expanded="false" />
+            <element signature="e#881#905#0" expanded="false" />
+            <element signature="e#986#1483#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Plugin/Noticias/AdminController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Plugin/Noticias/Widget/Noticias/Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="20" column="40" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
+          <folding>
+            <marker date="1469192221065" expanded="true" signature="340:353" ph="select * fro... " />
+            <marker date="1469192221065" expanded="true" signature="340:384" ph="select * fro... ip_noticias" />
+            <marker date="1469192221065" expanded="true" signature="340:395" ph="select * fro... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Theme/Oldenburg/includes/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="24" column="35" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Plugin/Carta/Setup/worker.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+          <folding>
+            <marker date="1469192824071" expanded="true" signature="135:421" ph="CREATE TABLE... IF" />
+            <marker date="1469192824071" expanded="true" signature="135:462" ph="CREATE TABLE... IF" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Plugin/Carta/Widget/Carta/Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="18" column="80" selection-start-line="18" selection-start-column="80" selection-end-line="18" selection-end-column="80" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Plugin/Carta/AdminController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
+          <caret line="43" column="40" selection-start-line="43" selection-start-column="40" selection-end-line="43" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Theme/Oldenburg/css/theme.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="610">
+          <caret line="602" column="21" selection-start-line="602" selection-start-column="21" selection-end-line="602" selection-end-column="21" />
+          <folding>
+            <element signature="e#1#30#0" expanded="false" />
+            <element signature="e#54#100#0" expanded="false" />
+            <element signature="e#107#991#0" expanded="false" />
+            <element signature="e#194#263#0" expanded="false" />
+            <element signature="e#273#304#0" expanded="false" />
+            <element signature="e#550#985#0" expanded="false" />
+            <element signature="e#638#981#0" expanded="false" />
+            <element signature="e#708#845#0" expanded="false" />
+            <element signature="e#799#838#0" expanded="false" />
+            <element signature="e#860#975#0" expanded="false" />
+            <element signature="e#908#968#0" expanded="false" />
+            <element signature="e#998#2044#0" expanded="false" />
+            <element signature="e#1085#1130#0" expanded="false" />
+            <element signature="e#1145#1330#0" expanded="false" />
+            <element signature="e#1169#1327#0" expanded="false" />
+            <element signature="e#1249#1323#0" expanded="false" />
+            <element signature="e#1343#1590#0" expanded="false" />
+            <element signature="e#1396#1587#0" expanded="false" />
+            <element signature="e#1403#1583#0" expanded="false" />
+            <element signature="e#1520#1577#0" expanded="false" />
+            <element signature="e#1605#1684#0" expanded="false" />
+            <element signature="e#1697#1814#0" expanded="false" />
+            <element signature="e#1725#1811#0" expanded="false" />
+            <element signature="e#1780#1807#0" expanded="false" />
+            <element signature="e#1827#1850#0" expanded="false" />
+            <element signature="e#2049#2074#0" expanded="false" />
+            <element signature="e#2093#3681#0" expanded="false" />
+            <element signature="e#2245#2381#0" expanded="false" />
+            <element signature="e#2333#2377#0" expanded="false" />
+            <element signature="e#2394#2581#0" expanded="false" />
+            <element signature="e#2595#2805#0" expanded="false" />
+            <element signature="e#2817#3604#0" expanded="false" />
+            <element signature="e#2954#3055#0" expanded="false" />
+            <element signature="e#2962#2984#0" expanded="false" />
+            <element signature="e#3069#3180#0" expanded="false" />
+            <element signature="e#3193#3217#0" expanded="false" />
+            <element signature="e#3230#3365#0" expanded="false" />
+            <element signature="e#3373#3601#0" expanded="false" />
+            <element signature="e#3414#3597#0" expanded="false" />
+            <element signature="e#3615#3679#0" expanded="false" />
+            <element signature="e#3693#4491#0" expanded="false" />
+            <element signature="e#3798#3964#0" expanded="false" />
+            <element signature="e#3977#4069#0" expanded="false" />
+            <element signature="e#3985#4007#0" expanded="false" />
+            <element signature="e#4278#4357#0" expanded="false" />
+            <element signature="e#4507#6527#0" expanded="false" />
+            <element signature="e#4641#4763#0" expanded="false" />
+            <element signature="e#4669#4760#0" expanded="false" />
+            <element signature="e#4776#4955#0" expanded="false" />
+            <element signature="e#4802#4951#0" expanded="false" />
+            <element signature="e#4969#5284#0" expanded="false" />
+            <element signature="e#5072#5194#0" expanded="false" />
+            <element signature="e#5200#5281#0" expanded="false" />
+            <element signature="e#5297#6272#0" expanded="false" />
+            <element signature="e#5341#6269#0" expanded="false" />
+            <element signature="e#5708#5795#0" expanded="false" />
+            <element signature="e#5812#5833#0" expanded="false" />
+            <element signature="e#5857#6125#0" expanded="false" />
+            <element signature="e#6138#6160#0" expanded="false" />
+            <element signature="e#6172#6195#0" expanded="false" />
+            <element signature="e#6207#6230#0" expanded="false" />
+            <element signature="e#6242#6265#0" expanded="false" />
+            <element signature="e#6302#6477#0" expanded="false" />
+            <element signature="e#6649#6785#0" expanded="false" />
+            <element signature="e#6737#6781#0" expanded="false" />
+            <element signature="e#6798#7022#0" expanded="false" />
+            <element signature="e#6853#6876#0" expanded="false" />
+            <element signature="e#6890#6957#0" expanded="false" />
+            <element signature="e#6927#6953#0" expanded="false" />
+            <element signature="e#6971#7019#0" expanded="false" />
+            <element signature="e#7036#7222#0" expanded="false" />
+            <element signature="e#7236#7434#0" expanded="false" />
+            <element signature="e#7447#8068#0" expanded="false" />
+            <element signature="e#7606#7753#0" expanded="false" />
+            <element signature="e#7614#7642#0" expanded="false" />
+            <element signature="e#7768#7900#0" expanded="false" />
+            <element signature="e#7914#7941#0" expanded="false" />
+            <element signature="e#7955#8065#0" expanded="false" />
+            <element signature="e#8168#8207#0" expanded="false" />
+            <element signature="e#8229#8337#0" expanded="false" />
+            <element signature="e#8426#8451#0" expanded="false" />
+            <element signature="e#8726#8909#0" expanded="false" />
+            <element signature="e#8874#8904#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Plugin/Carta/Widget/Carta/skin/default.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="543">
+          <caret line="55" column="13" selection-start-line="55" selection-start-column="13" selection-end-line="57" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Plugin/Pedidos/Widget/Pedidos/skin/default.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="24" column="93" selection-start-line="24" selection-start-column="93" selection-end-line="24" selection-end-column="93" />
+          <folding>
+            <marker date="1469193792801" expanded="true" signature="992:1031" ph="SELECT `firs... ${$table}" />
+            <marker date="1469193792801" expanded="true" signature="992:1032" ph="SELECT `link... ip_carta" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
